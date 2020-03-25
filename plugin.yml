@@ -1,0 +1,14 @@
+### 플러그인의 이름 || Name of the plugin
+name: SpaceRPG
+
+### 플러그인의 제작자 || Author of the plugin
+author: SpaceLuis
+
+### 플러그인의 버전 || Version of the plugin
+version: S1
+
+### 플러그인의 메인 파일 || Mainfile of the plugin
+main: SpaceLuis\SpaceRPG
+
+### 플러그인의 API || API of the plugin
+api: 3.0.0
